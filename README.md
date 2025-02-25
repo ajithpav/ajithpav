@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <b>Python Developer |DevOps Engineer | Cloud Specialist | </b>
+  <b>Python Developer |DevOps Engineer | Ai Specialist | </b>
 </p>
 
 <p align="center">
