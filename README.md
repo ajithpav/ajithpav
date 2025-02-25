@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <b> Python Developer | DevOps Engineer |   Cloud Specialist |</b>
+  <b>Python Developer | DevOps Engineer | Cloud Specialist | </b>
 </p>
 
 <p align="center">
@@ -58,8 +58,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajith&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith&layout=compact&theme=radical&hide_border=true" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajithkumar2109&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumar2109&layout=compact&theme=radical&hide_border=true" width="40%">
 </p>
 
 ---
