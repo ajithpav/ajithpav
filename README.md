@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <b>Python Developer | DevOps Engineer | Cloud Specialist | </b>
+  <b>Python Developer |DevOps Engineer | Cloud Specialist | </b>
 </p>
 
 <p align="center">
@@ -56,10 +56,34 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajithkumar2109&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumar2109&layout=compact&theme=radical&hide_border=true" width="40%">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-Advanced-success?style=for-the-badge&logo=python" alt="Python"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-Expert-success?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IaC-Advanced-success?style=for-the-badge&logo=terraform" alt="IaC"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CI/CD-Expert-success?style=for-the-badge&logo=github-actions" alt="CI/CD"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Container_Orchestration-Advanced-success?style=for-the-badge&logo=kubernetes" alt="Container Orchestration"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Cloud_Security-Intermediate-yellow?style=for-the-badge&logo=cloudflare" alt="Cloud Security"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
