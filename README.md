@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/ajithkumar2109">
     <img src="https://img.shields.io/badge/LinkedIn-AjithKumar-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:ajith@example.com">
-    <img src="https://img.shields.io/badge/Email-ajith@example.com-red?style=flat&logo=gmail" alt="Email">
+  <a href="mailto:ajithkumar63073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajithkumar63073@gmail.com-red?style=flat&logo=gmail" alt="Email">
   </a>
   <a href="https://ajithkumarportfolio21.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-ajith.dev-green?style=flat&logo=web" alt="Portfolio">
